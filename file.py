@@ -6,3 +6,6 @@ c=a+b
 # Division
 e=a/b
 
+#This is Multiplication
+d=a*b
+
